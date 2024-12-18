@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: cpsc450.FinalProjectTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.064 s -- in cpsc450.FinalProjectTest
+cpsc450.FinalProjectTest.naiveApproachInvalidInputTest -- Time elapsed: 0.026 s
+cpsc450.FinalProjectTest.matrixAdditionTwoByTwoPlusTwoByTwoTest -- Time elapsed: 0.001 s
+cpsc450.FinalProjectTest.matrixSubtractionTwoByTwoPlusTwoByTwoTest -- Time elapsed: 0.001 s
+cpsc450.FinalProjectTest.strassensApproachTwoByTwoXTwoByTwoTest -- Time elapsed: 0.002 s
+cpsc450.FinalProjectTest.strassensApproachSquareNotSameN -- Time elapsed: 0.001 s
+cpsc450.FinalProjectTest.naiveApproachTwoByOneXOneByTwoTest -- Time elapsed: 0 s
+cpsc450.FinalProjectTest.matrixSubtractionInvalidInputTest -- Time elapsed: 0.001 s
+cpsc450.FinalProjectTest.strassensApproachNotDivisibleBy2Test -- Time elapsed: 0.001 s
+cpsc450.FinalProjectTest.matrixAdditionInvalidInputTest -- Time elapsed: 0.001 s
+cpsc450.FinalProjectTest.naiveApproachTwoByTwoXTwoByTwoTest -- Time elapsed: 0.001 s
+cpsc450.FinalProjectTest.strassensApproachNotSquareTest -- Time elapsed: 0.001 s
